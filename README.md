@@ -1,7 +1,7 @@
 # dotfiles
 Personal dotfiles
 
-## Cloining / replicating
+## Cloning / replicating
 ```sh
 git clone --recursive https://github.com/theo4u/dotfiles.git
 ```
